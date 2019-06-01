@@ -5,5 +5,7 @@ The repository furhter contains an example script (MainAnalysisFile.m) and all a
 As the code is using the bfmatlab importer from BioFormats, it should work out of the box with most manufacturer's microscopes.
 
 Credits go to
-> The Open Microscopy Environment (OME) for supplying BioFormats, in this case for MatLab via the bfmatlab tool
-> parfor, distributionPlot from the MatLab File Exchange
+
+The Open Microscopy Environment (OME) for supplying BioFormats, in this case for MatLab via the bfmatlab tool
+
+parfor, distributionPlot from the MatLab File Exchange
